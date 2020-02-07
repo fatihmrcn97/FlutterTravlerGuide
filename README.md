@@ -1,5 +1,6 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Apps From  | Flutter Travel UI Starter Repo
 
-Clone this repo and follow my YouTube video: [Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
+App is looking like :
 
-[Complete Travel UI](https://github.com/MarcusNg/flutter_travel_ui)
+
+![](p3.png)
